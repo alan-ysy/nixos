@@ -59,6 +59,8 @@
     # wireshark
     jetbrains.idea
     openssl
+
+    inkscape
     
     # Fonts
     noto-fonts

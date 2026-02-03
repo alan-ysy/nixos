@@ -223,6 +223,9 @@
     enable = true;
 
     settings = {
+      # Set TERM variable
+      term = "xterm-256color";
+
       # Font
       font_family = "Iosevka Nerd Font Mono";
       font_size = 14;

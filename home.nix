@@ -59,6 +59,7 @@
     # wireshark
     jetbrains.idea
     openssl
+    obsidian
 
     inkscape
     

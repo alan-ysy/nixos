@@ -223,7 +223,7 @@
     enable = true;
 
     settings = {
-      # Set TERM variable
+      # Set TERM variable to this to make ssh cooperate
       term = "xterm-256color";
 
       # Font

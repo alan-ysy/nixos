@@ -148,4 +148,14 @@
   # (e.g. man configuration.nix or on https://nixos.org/nixos/options.html).
   system.stateVersion = "25.05"; # Did you read the comment?
 
+  # Docker
+  virtualisation.docker.enable = true;
+  virtualisation.docker.daemon.settings = {
+    data-root = "~/Projects/docker/";
+  };
+  virtualisation.docker.rootless = {
+    enable = true;
+    setSocketVariable = true;
+  };
+
 }

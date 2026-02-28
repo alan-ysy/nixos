@@ -63,6 +63,7 @@
 
     inkscape
     unzip
+    xfce.thunar
     
     # Fonts
     noto-fonts

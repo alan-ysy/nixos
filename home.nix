@@ -67,6 +67,9 @@
     
     # Fonts
     noto-fonts
+
+    steam
+    steam-run
   ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage

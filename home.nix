@@ -70,6 +70,8 @@
 
     steam
     steam-run
+
+    ida-free
   ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage

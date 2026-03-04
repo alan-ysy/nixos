@@ -63,6 +63,7 @@
 
     inkscape
     unzip
+    p7zip
     xfce.thunar
     
     # Fonts

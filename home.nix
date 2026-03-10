@@ -73,7 +73,7 @@
 
     # Cybersecurity Tools
     ghidra
-    ida-free
+    # ida-free
 
     steam
     steam-run

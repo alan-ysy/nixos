@@ -65,14 +65,18 @@
     unzip
     p7zip
     xfce.thunar
+    kdePackages.okular
+    syncthing
     
     # Fonts
     noto-fonts
 
+    # Cybersecurity Tools
+    ghidra
+    ida-free
+
     steam
     steam-run
-
-    ida-free
   ];
 
   # Home Manager is pretty good at managing dotfiles. The primary way to manage

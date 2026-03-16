@@ -16,6 +16,7 @@
   home.stateVersion = "25.11"; # Please read the comment before changing.
   
   nixpkgs.config.allowUnfree = true;
+
   # The home.packages option allows you to install Nix packages into your
   # environment.
   home.packages = with pkgs; [
@@ -482,14 +483,6 @@
       };
     };
     waylandDisplay = "wayland-1";
-  };
-
-  # Steam installation
-  programs.steam = {
-    enable = true;
-    remotePlay.openFirewall = true; # Open ports in the firewall for Steam Remote Play
-    dedicatedServer.openFirewall = true; # Open ports in the firewall for Source Dedicated Server
-    localNetworkGameTransfers.openFirewall = true; # Open ports in the firewall for Steam Local Network Game Transfers
   };
 
   # Let Home Manager install and manage itself.

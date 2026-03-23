@@ -86,6 +86,7 @@
     firefox
     vscode
     gcc
+    wine
   ];
 
   # Fonts

@@ -68,6 +68,8 @@
     xfce.thunar
     kdePackages.okular
     syncthing
+    spring-boot-cli
+    postman
     
     # Fonts
     noto-fonts

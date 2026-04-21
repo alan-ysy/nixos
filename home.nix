@@ -70,6 +70,8 @@
     syncthing
     spring-boot-cli
     postman
+    burpsuite
+    foremost
     
     # Fonts
     noto-fonts

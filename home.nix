@@ -72,6 +72,8 @@
     postman
     burpsuite
     foremost
+    wireshark
+    skopeo
     
     # Fonts
     noto-fonts

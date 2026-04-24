@@ -87,6 +87,9 @@
     vscode
     gcc
     wine
+    dig
+    file
+    yazi
   ];
 
   # Fonts

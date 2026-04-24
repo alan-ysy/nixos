@@ -73,7 +73,7 @@
     burpsuite
     foremost
     wireshark
-    skopeo
+    reveal-md
     
     # Fonts
     noto-fonts
